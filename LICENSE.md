@@ -1,4 +1,4 @@
-#  
+#  updated Scripts for fish it offers the most advanced fish it Script, with fly and auto-collect. Perfect for dominating any match.
 
 
 
